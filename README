@@ -1,3 +1,17 @@
+编译采用vs2017社区版
+
+安装active perl和nasm
+
+开始  ->  vs2017 命令提示
+
+perl Configure VC-WIN32
+nmake -f makefile 
+
+
+
+https://blog.csdn.net/lostspeed/article/details/69492531
+
+
 
  OpenSSL 1.1.1-pre7-dev
 
