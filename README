@@ -4,10 +4,13 @@
 
 开始  ->  vs2017 命令提示
 
+win32:
 perl Configure VC-WIN32
 nmake -f makefile 
 
-
+win64:
+perl Configure VC-WIN32
+nmake -f makefile 
 
 https://blog.csdn.net/lostspeed/article/details/69492531
 
